@@ -1,0 +1,10 @@
+blcd.c:14:6:BLCD_init	40	static
+blcd.c:36:6:BLCD_create_char	48	static
+blcd.c:52:6:BLCD_print_char	40	static
+blcd.c:62:6:BLCD_clear	40	static
+blcd.c:70:6:BLCD_gotoxy	48	static
+blcd.c:78:6:BLCD_print	40	static
+blcd.c:86:6:BLCD_putch	40	static
+blcd.c:92:6:BLCD_send_data	40	static
+blcd.c:111:6:BLCD_send_nibble	40	static
+blcd.c:127:6:BLCD_delay_us	32	static
