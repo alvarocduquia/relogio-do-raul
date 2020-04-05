@@ -1,7 +1,3 @@
 # Relógio do Raul
-Relógio digital com alarme para a disciplina de Sistemas Microprocessados II.
 
-O código ficou feio pois fiz na base do ódio.
-
-# Hardware
-Foi utilizado o processador ARM STM32F446RE na placa Nucleo-64.
+Relógio digital com alarme utilizando o microporcessador ARM STM32F446RE para a disciplina de Sistemas Microprocessados II.
